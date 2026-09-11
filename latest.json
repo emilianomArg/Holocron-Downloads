@@ -5,5 +5,5 @@
   "release_url": "https://github.com/emilianomArg/Holocron-Downloads/releases/tag/v0.8",
   "minimum_macos": "13.0",
   "architecture": "universal",
-  "notes": "Initial update feed. This release supports both Apple Silicon and Intel Macs."
+  "notes": "Adds first-launch license acceptance and remembers the main-window position and size, including a secondary display. Universal for Apple Silicon and Intel. The encrypted studio DMG requires the separately supplied password."
 }
