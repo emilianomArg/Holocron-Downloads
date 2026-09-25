@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "app": "EM Holocron",
-  "latest_version": "0.8",
-  "release_url": "https://github.com/emilianomArg/Holocron-Downloads/releases/tag/v0.8",
+  "latest_version": "0.9",
+  "release_url": "https://github.com/emilianomArg/Holocron-Downloads/releases/tag/v0.9",
   "minimum_macos": "13.0",
   "architecture": "universal",
-  "notes": "Adds first-launch license acceptance and remembers the main-window position and size, including a secondary display. Universal for Apple Silicon and Intel. The encrypted studio DMG requires the separately supplied password."
+  "notes": "Fixes playback restarting on its own after pausing, window position not being remembered, and a stuttering zoom animation; scrolling responds faster in large libraries. Adds a sortable Uses column, Spot All Selected, a Pro Tools channel-count mismatch warning, and Reaper as a second, auto-detected spot target. Universal for Apple Silicon and Intel. The encrypted studio DMG requires the separately supplied password."
 }
