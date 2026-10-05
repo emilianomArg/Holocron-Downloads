@@ -4,7 +4,7 @@
   "latest_version": "0.10",
   "release_url": "https://github.com/emilianomArg/Holocron-Downloads/releases/tag/v0.1",
   "notes": "Install phonema Spot v0.1, the renamed app. It migrates your index and settings. Future updates come from Cloudflare. The 0.10 announcement number is only for compatibility with this older app.",
-  "sha256": "d9e7037a926df14d7c43ddde823517074b03501ee32e5344cc3123658e12b832",
-  "size_bytes": 22117888,
+  "sha256": "b42e989541da3c7e3ecca77beba32e5f956d3ef6d5740cd041780fd60be59a35",
+  "size_bytes": 22121984,
   "platform": "macos-universal"
 }
