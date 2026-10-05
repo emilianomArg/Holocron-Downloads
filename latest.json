@@ -1,9 +1,10 @@
 {
   "schema_version": 1,
   "app": "EM Holocron",
-  "latest_version": "0.9",
-  "release_url": "https://github.com/emilianomArg/Holocron-Downloads/releases/tag/v0.9",
-  "minimum_macos": "13.0",
-  "architecture": "universal",
-  "notes": "Fixes playback restarting on its own after pausing, window position not being remembered, and a stuttering zoom animation; scrolling responds faster in large libraries. Adds a sortable Uses column, Spot All Selected, a Pro Tools channel-count mismatch warning, and Reaper as a second, auto-detected spot target. Universal for Apple Silicon and Intel. The encrypted studio DMG requires the separately supplied password."
+  "latest_version": "0.10",
+  "release_url": "https://github.com/emilianomArg/Holocron-Downloads/releases/tag/v0.1",
+  "notes": "Install phonema Spot v0.1, the renamed app. It migrates your index and settings. Future updates come from Cloudflare. The 0.10 announcement number is only for compatibility with this older app.",
+  "sha256": "d9e7037a926df14d7c43ddde823517074b03501ee32e5344cc3123658e12b832",
+  "size_bytes": 22117888,
+  "platform": "macos-universal"
 }
